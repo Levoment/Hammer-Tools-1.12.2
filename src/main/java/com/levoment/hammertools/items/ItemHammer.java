@@ -1,6 +1,5 @@
 package com.levoment.hammertools.items;
 
-import com.levoment.hammertools.HammerTools;
 import com.levoment.hammertools.init.ModItems;
 import net.minecraft.block.BlockTorch;
 import net.minecraft.block.SoundType;
