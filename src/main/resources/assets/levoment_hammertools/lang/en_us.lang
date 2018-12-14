@@ -1,0 +1,14 @@
+// Item names
+item.ItemWoodHammer.name=Wood Hammer
+item.ItemStoneHammer.name=Stone Hammer
+item.ItemIronHammer.name=Iron Hammer
+item.ItemGoldHammer.name=Gold Hammer
+item.ItemDiamondHammer.name=Diamond Hammer
+item.ItemWoodSuperAxe.name=Wood Super Axe
+item.ItemStoneSuperAxe.name=Stone Super Axe
+item.ItemIronSuperAxe.name=Iron Super Axe
+item.ItemGoldSuperAxe.name=Gold Super Axe
+item.ItemDiamondSuperAxe.name=Diamond Super Axe
+
+// Creative Tab
+itemGroup.tab_levoment_hammerTools=Hammer Tools

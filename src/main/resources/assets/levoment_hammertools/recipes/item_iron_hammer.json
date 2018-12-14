@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IsI",
+    " s "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "data": 0,
+      "count": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0,
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "levoment_hammertools:ItemIronHammer",
+    "data": 0,
+    "count": 1
+  }
+}

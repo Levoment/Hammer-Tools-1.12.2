@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WsW",
+    " s "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:planks",
+      "data": 0,
+      "count": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0,
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "levoment_hammertools:ItemWoodHammer",
+    "data": 0,
+    "count": 1
+  }
+}

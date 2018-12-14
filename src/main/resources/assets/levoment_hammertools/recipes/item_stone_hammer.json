@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SsS",
+    " s "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone",
+      "data": 0,
+      "count": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0,
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "levoment_hammertools:ItemStoneHammer",
+    "data": 0,
+    "count": 1
+  }
+}

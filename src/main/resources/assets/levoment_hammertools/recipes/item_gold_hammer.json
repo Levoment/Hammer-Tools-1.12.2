@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GsG",
+    " s "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot",
+      "data": 0,
+      "count": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0,
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "levoment_hammertools:ItemGoldHammer",
+    "data": 0,
+    "count": 1
+  }
+}

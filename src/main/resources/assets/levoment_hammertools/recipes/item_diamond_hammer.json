@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DsD",
+    " s "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond",
+      "data": 0,
+      "count": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0,
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "levoment_hammertools:ItemDiamondHammer",
+    "data": 0,
+    "count": 1
+  }
+}
