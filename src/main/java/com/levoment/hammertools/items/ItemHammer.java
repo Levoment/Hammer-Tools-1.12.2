@@ -259,5 +259,4 @@ public class ItemHammer extends ItemPickaxe {
     public void registerRenders() {
 
     }
-
 }
