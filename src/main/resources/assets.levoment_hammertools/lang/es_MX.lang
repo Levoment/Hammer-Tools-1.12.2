@@ -1,0 +1,14 @@
+// Item names
+item.woodhammer.name=Martillo de Madera
+item.stonehammer.name=Martillo de Piedra
+item.ironhammer.name=Martillo de Hierro
+item.goldhammer.name=Martillo de Oro
+item.diamondhammer.name=Martillo de Diamante
+item.woodsuperaxe.name=Super Hacha de Madera
+item.stonesuperaxe.name=Super Hacha de Piedra
+item.ironsuperaxe.name=Super Hacha de Hierro
+item.goldsuperaxe.name=Super Hacha de Oro
+item.diamondsuperaxe.name=Super Hacha de Diamante
+
+// Creative Tab
+itemGroup.tab_levoment_hammerTools=Herramientas de Martillo
